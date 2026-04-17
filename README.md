@@ -11,6 +11,14 @@ This project analyzes user behavior in an EdTech platform by combining multiple 
 ---
 
 ## ⚙️ Approach
+- Data cleaning and preprocessing
+- Feature engineering (session count, time spent, avg duration)
+- Behavioral segmentation (Binge, Moderate, Consistent, Low Engagement)
+- Dropout analysis across categories, user segments, and age groups
+
+---
+
+## 🔍 Key Insights
 1. Identified a non-linear engagement pattern where users with high session duration (~65+ mins) showed higher dropout (~70%+), challenging the assumption that more engagement improves retention
 
 2. Discovered multi-stage churn behavior, with peak dropout occurring at early engagement (3–4 sessions) and mid-engagement (100–300 mins), revealing critical retention gaps across the user journey
@@ -20,14 +28,6 @@ This project analyzes user behavior in an EdTech platform by combining multiple 
 4. Built a two-layer analytical dashboard (business + behavioral) linking course categories with user behavior, identifying Competitive courses as the largest contributor to total dropout despite not having the highest dropout rate
 
 5. Transformed raw multi-source data into decision-ready insights, enabling identification of fatigue-driven churn and engagement inefficiencies across user segments
-
----
-
-## 🔍 Key Insights
-- Competitive category contributes the highest dropout due to high enrollment
-- Dropout occurs in multiple stages (early and mid engagement)
-- High session duration correlates with higher dropout (fatigue effect)
-- Consistent engagement performs better than binge usage
 
 ---
 
