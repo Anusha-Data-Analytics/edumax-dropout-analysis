@@ -32,8 +32,10 @@ This project analyzes user behavior in an EdTech platform by combining multiple 
 ---
 
 ## 📈 Dashboard
-![Dashboard](Dashboard_Overview.png)
+![Overview Dashboard](dashboard_overview.png)
+![User Behaviour Analysis](user_behaviour_analysis.png)
 
+- Refer the Dynamic Dashboard : ![Dynamic Dashboard in PowerBI](Edumax_Dashboard.pbix)
 ---
 
 ## 🛠 Tools Used
