@@ -1,0 +1,445 @@
+category,course_id,user_id,status,age_bucket,user_segment,is_dropped,session_count_per_user,total_time_spent,avg_duration
+Coding,C212,U1499,completed,Professionals,Binge User,0,4.0,225.0,56.25
+Math,C208,U1499,dropped,Professionals,Binge User,1,4.0,225.0,56.25
+Math,C201,U1498,completed,Teen,Consistent User,0,7.0,570.0,81.43
+Math,C201,U1497,completed,Early Learners,Low Engagement,0,2.0,60.0,30.0
+Tech,C215,U1496,dropped,Mid Carrier,Binge User,1,4.0,255.0,63.75
+Competitive,C205,U1496,completed,Mid Carrier,Binge User,0,4.0,255.0,63.75
+Math,C219,U1494,completed,Mid Carrier,Consistent User,0,6.0,240.0,40.0
+Math,C219,U1493,completed,Mid Carrier,Moderate Users,0,4.0,100.0,25.0
+Math,C208,U1493,dropped,Mid Carrier,Moderate Users,1,4.0,100.0,25.0
+Competitive,C200,U1493,dropped,Mid Carrier,Moderate Users,1,4.0,100.0,25.0
+Coding,C218,U1492,dropped,Mid Carrier,Moderate Users,1,5.0,205.0,41.0
+Math,C201,U1492,completed,Mid Carrier,Moderate Users,0,5.0,205.0,41.0
+Competitive,C209,U1488,dropped,Mid Carrier,Binge User,1,1.0,120.0,120.0
+Math,C208,U1485,dropped,Teen,Moderate Users,1,3.0,100.0,33.33
+Coding,C212,U1484,dropped,Teen,Moderate Users,1,4.0,65.0,16.25
+Math,C216,U1482,dropped,Professionals,Low Engagement,1,2.0,45.0,22.5
+Math,C201,U1481,dropped,Mid Carrier,Low Engagement,1,2.0,25.0,12.5
+Competitive,C204,U1480,dropped,Mid Carrier,Consistent User,1,6.0,360.0,60.0
+Math,C216,U1477,completed,Professionals,Low Engagement,0,2.0,50.0,25.0
+Math,C208,U1477,completed,Professionals,Low Engagement,0,2.0,50.0,25.0
+Math,C201,U1477,dropped,Professionals,Low Engagement,1,2.0,50.0,25.0
+Coding,C218,U1476,completed,Professionals,Low Engagement,0,1.0,45.0,45.0
+Competitive,C204,U1476,dropped,Professionals,Low Engagement,1,1.0,45.0,45.0
+Competitive,C210,U1475,completed,Early Learners,Moderate Users,0,4.0,125.0,31.25
+Competitive,C205,U1475,dropped,Early Learners,Moderate Users,1,4.0,125.0,31.25
+Coding,C202,U1475,dropped,Early Learners,Moderate Users,1,4.0,125.0,31.25
+Competitive,C209,U1473,completed,Mid Carrier,Binge User,0,5.0,340.0,68.0
+Competitive,C209,U1472,completed,Professionals,Low Engagement,0,2.0,20.0,10.0
+Math,C216,U1471,completed,Teen,Moderate Users,0,5.0,195.0,39.0
+Math,C216,U1468,completed,Mid Carrier,Moderate Users,0,5.0,175.0,35.0
+Competitive,C210,U1468,dropped,Mid Carrier,Moderate Users,1,5.0,175.0,35.0
+Competitive,C209,U1466,dropped,Professionals,Binge User,1,3.0,140.0,46.67
+Tech,C211,U1465,dropped,Mid Carrier,Binge User,1,1.0,120.0,120.0
+Competitive,C205,U1464,dropped,Mid Carrier,Moderate Users,1,4.0,85.0,21.25
+Coding,C218,U1463,dropped,Professionals,Moderate Users,1,4.0,75.0,18.75
+Competitive,C207,U1462,completed,Teen,Binge User,0,4.0,200.0,50.0
+Coding,C202,U1462,dropped,Teen,Binge User,1,4.0,200.0,50.0
+Competitive,C204,U1461,dropped,Mid Carrier,Consistent User,1,6.0,120.0,20.0
+Coding,C218,U1460,dropped,Mid Carrier,Moderate Users,1,4.0,180.0,45.0
+Math,C208,U1460,completed,Mid Carrier,Moderate Users,0,4.0,180.0,45.0
+Tech,C211,U1459,dropped,Early Learners,Binge User,1,4.0,305.0,76.25
+Coding,C218,U1458,completed,Early Learners,Consistent User,0,6.0,385.0,64.17
+Competitive,C209,U1458,dropped,Early Learners,Consistent User,1,6.0,385.0,64.17
+Coding,C212,U1453,completed,Teen,Moderate Users,0,3.0,85.0,28.33
+Competitive,C205,U1453,completed,Teen,Moderate Users,0,3.0,85.0,28.33
+Math,C219,U1451,dropped,Professionals,Moderate Users,1,4.0,105.0,26.25
+Competitive,C207,U1451,completed,Professionals,Moderate Users,0,4.0,105.0,26.25
+Math,C216,U1449,completed,Teen,Consistent User,0,7.0,155.0,22.14
+Competitive,C209,U1449,completed,Teen,Consistent User,0,7.0,155.0,22.14
+Coding,C202,U1447,completed,Mid Carrier,Consistent User,0,6.0,245.0,40.83
+Competitive,C200,U1446,completed,Teen,Moderate Users,0,5.0,200.0,40.0
+Tech,C211,U1445,completed,Mid Carrier,Moderate Users,0,3.0,55.0,18.33
+Competitive,C209,U1445,completed,Mid Carrier,Moderate Users,0,3.0,55.0,18.33
+Competitive,C205,U1444,dropped,Mid Carrier,Moderate Users,1,4.0,145.0,36.25
+Coding,C202,U1444,dropped,Mid Carrier,Moderate Users,1,4.0,145.0,36.25
+Tech,C215,U1442,completed,Professionals,Moderate Users,0,3.0,105.0,35.0
+Tech,C211,U1442,dropped,Professionals,Moderate Users,1,3.0,105.0,35.0
+Competitive,C200,U1441,dropped,Mid Carrier,Moderate Users,1,4.0,110.0,27.5
+Competitive,C200,U1440,dropped,Professionals,Moderate Users,1,4.0,165.0,41.25
+Tech,C215,U1437,dropped,Mid Carrier,Consistent User,1,6.0,260.0,43.33
+Math,C216,U1436,dropped,Mid Carrier,Low Engagement,1,2.0,55.0,27.5
+Competitive,C200,U1434,completed,Mid Carrier,Moderate Users,0,3.0,110.0,36.67
+Math,C219,U1429,dropped,Mid Carrier,Binge User,1,4.0,200.0,50.0
+Math,C201,U1428,completed,Mid Carrier,Consistent User,0,6.0,155.0,25.83
+Coding,C218,U1427,completed,Teen,Binge User,0,4.0,255.0,63.75
+Tech,C215,U1427,dropped,Teen,Binge User,1,4.0,255.0,63.75
+Coding,C218,U1426,completed,Professionals,Low Engagement,0,2.0,60.0,30.0
+Tech,C211,U1426,dropped,Professionals,Low Engagement,1,2.0,60.0,30.0
+Math,C201,U1425,completed,Teen,Consistent User,0,6.0,300.0,50.0
+Coding,C218,U1423,dropped,Professionals,Consistent User,1,8.0,310.0,38.75
+Math,C208,U1419,dropped,Early Learners,Consistent User,1,6.0,145.0,24.17
+Math,C201,U1418,completed,Professionals,Moderate Users,0,3.0,130.0,43.33
+Coding,C202,U1417,dropped,Teen,Binge User,1,2.0,125.0,62.5
+Math,C216,U1416,completed,Teen,Moderate Users,0,3.0,105.0,35.0
+Coding,C218,U1415,dropped,Mid Carrier,Consistent User,1,7.0,325.0,46.43
+Math,C208,U1414,dropped,Professionals,Moderate Users,1,3.0,30.0,10.0
+Math,C208,U1413,dropped,Professionals,Consistent User,1,6.0,345.0,57.5
+Math,C201,U1413,dropped,Professionals,Consistent User,1,6.0,345.0,57.5
+Coding,C212,U1411,dropped,Professionals,Binge User,1,3.0,175.0,58.33
+Coding,C212,U1409,completed,Teen,Low Engagement,0,1.0,45.0,45.0
+Competitive,C204,U1409,completed,Teen,Low Engagement,0,1.0,45.0,45.0
+Math,C219,U1408,dropped,Teen,Binge User,1,3.0,210.0,70.0
+Competitive,C200,U1408,dropped,Teen,Binge User,1,3.0,210.0,70.0
+Competitive,C204,U1405,dropped,Professionals,Moderate Users,1,5.0,130.0,26.0
+Competitive,C209,U1403,completed,Teen,Moderate Users,0,4.0,175.0,43.75
+Competitive,C204,U1403,completed,Teen,Moderate Users,0,4.0,175.0,43.75
+Competitive,C200,U1402,dropped,Professionals,Moderate Users,1,3.0,115.0,38.33
+Math,C216,U1401,dropped,Professionals,Low Engagement,1,2.0,65.0,32.5
+Competitive,C200,U1401,completed,Professionals,Low Engagement,0,2.0,65.0,32.5
+Math,C208,U1398,dropped,Teen,Moderate Users,1,5.0,145.0,29.0
+Tech,C215,U1396,dropped,Mid Carrier,Moderate Users,1,3.0,120.0,40.0
+Competitive,C209,U1394,completed,Mid Carrier,Binge User,0,3.0,180.0,60.0
+Coding,C218,U1392,completed,Professionals,Moderate Users,0,3.0,30.0,10.0
+Math,C201,U1391,dropped,Teen,Moderate Users,1,3.0,65.0,21.67
+Math,C219,U1390,dropped,Teen,Moderate Users,1,3.0,40.0,13.33
+Tech,C211,U1390,completed,Teen,Moderate Users,0,3.0,40.0,13.33
+Math,C201,U1390,completed,Teen,Moderate Users,0,3.0,40.0,13.33
+Coding,C202,U1389,completed,Professionals,Consistent User,0,6.0,205.0,34.17
+Competitive,C207,U1388,dropped,Mid Carrier,Moderate Users,1,4.0,150.0,37.5
+Competitive,C205,U1387,completed,Mid Carrier,Consistent User,0,9.0,380.0,42.22
+Coding,C218,U1386,completed,Mid Carrier,Consistent User,0,6.0,95.0,15.83
+Tech,C211,U1382,completed,Professionals,Consistent User,0,7.0,255.0,36.43
+Coding,C218,U1381,completed,Teen,Moderate Users,0,3.0,110.0,36.67
+Coding,C202,U1381,completed,Teen,Moderate Users,0,3.0,110.0,36.67
+Competitive,C200,U1381,dropped,Teen,Moderate Users,1,3.0,110.0,36.67
+Coding,C212,U1380,dropped,Professionals,Consistent User,1,6.0,150.0,25.0
+Competitive,C209,U1380,dropped,Professionals,Consistent User,1,6.0,150.0,25.0
+Competitive,C210,U1379,dropped,Teen,Moderate Users,1,3.0,90.0,30.0
+Competitive,C200,U1379,dropped,Teen,Moderate Users,1,3.0,90.0,30.0
+Competitive,C204,U1378,dropped,Early Learners,Moderate Users,1,3.0,35.0,11.67
+Coding,C202,U1377,dropped,Early Learners,Consistent User,1,7.0,265.0,37.86
+Coding,C212,U1376,completed,Mid Carrier,Low Engagement,0,1.0,5.0,5.0
+Competitive,C204,U1376,completed,Mid Carrier,Low Engagement,0,1.0,5.0,5.0
+Coding,C202,U1376,completed,Mid Carrier,Low Engagement,0,1.0,5.0,5.0
+Math,C219,U1375,completed,Mid Carrier,Moderate Users,0,4.0,70.0,17.5
+Tech,C211,U1370,completed,Teen,Consistent User,0,6.0,390.0,65.0
+Math,C201,U1369,completed,Teen,Low Engagement,0,2.0,35.0,17.5
+Competitive,C210,U1365,completed,Teen,Moderate Users,0,4.0,95.0,23.75
+Tech,C211,U1364,completed,Mid Carrier,Binge User,0,3.0,175.0,58.33
+Math,C208,U1362,completed,Professionals,Moderate Users,0,5.0,110.0,22.0
+Coding,C218,U1359,completed,Mid Carrier,Consistent User,0,7.0,360.0,51.43
+Math,C219,U1358,completed,Teen,Binge User,0,3.0,155.0,51.67
+Coding,C212,U1358,dropped,Teen,Binge User,1,3.0,155.0,51.67
+Math,C219,U1356,dropped,Professionals,Moderate Users,1,3.0,50.0,16.67
+Coding,C218,U1356,completed,Professionals,Moderate Users,0,3.0,50.0,16.67
+Math,C216,U1355,dropped,Teen,Moderate Users,1,4.0,155.0,38.75
+Competitive,C205,U1355,dropped,Teen,Moderate Users,1,4.0,155.0,38.75
+Coding,C202,U1355,completed,Teen,Moderate Users,0,4.0,155.0,38.75
+Tech,C211,U1353,dropped,Early Learners,Low Engagement,1,2.0,70.0,35.0
+Competitive,C210,U1353,dropped,Early Learners,Low Engagement,1,2.0,70.0,35.0
+Competitive,C205,U1352,completed,Teen,Binge User,0,1.0,120.0,120.0
+Tech,C215,U1351,dropped,Teen,Binge User,1,4.0,210.0,52.5
+Coding,C218,U1348,dropped,Early Learners,Moderate Users,1,3.0,90.0,30.0
+Competitive,C210,U1348,completed,Early Learners,Moderate Users,0,3.0,90.0,30.0
+Competitive,C209,U1348,dropped,Early Learners,Moderate Users,1,3.0,90.0,30.0
+Math,C201,U1343,dropped,Mid Carrier,Binge User,1,5.0,230.0,46.0
+Math,C201,U1341,dropped,Mid Carrier,Binge User,1,1.0,60.0,60.0
+Math,C208,U1339,completed,Professionals,Consistent User,0,6.0,145.0,24.17
+Coding,C202,U1338,dropped,Professionals,Consistent User,1,6.0,390.0,65.0
+Coding,C218,U1336,dropped,Teen,Consistent User,1,9.0,410.0,45.56
+Competitive,C205,U1334,dropped,Early Learners,Consistent User,1,6.0,240.0,40.0
+Competitive,C204,U1334,dropped,Early Learners,Consistent User,1,6.0,240.0,40.0
+Coding,C202,U1334,completed,Early Learners,Consistent User,0,6.0,240.0,40.0
+Competitive,C204,U1332,dropped,Mid Carrier,Moderate Users,1,5.0,165.0,33.0
+Coding,C212,U1331,dropped,Teen,Moderate Users,1,4.0,95.0,23.75
+Tech,C215,U1329,completed,Early Learners,Binge User,0,1.0,60.0,60.0
+Competitive,C210,U1329,dropped,Early Learners,Binge User,1,1.0,60.0,60.0
+Math,C219,U1327,completed,Teen,Low Engagement,0,2.0,75.0,37.5
+Competitive,C205,U1327,completed,Teen,Low Engagement,0,2.0,75.0,37.5
+Math,C201,U1327,dropped,Teen,Low Engagement,1,2.0,75.0,37.5
+Tech,C211,U1326,dropped,Teen,Binge User,1,4.0,300.0,75.0
+Math,C216,U1325,dropped,Professionals,Moderate Users,1,3.0,65.0,21.67
+Coding,C212,U1325,completed,Professionals,Moderate Users,0,3.0,65.0,21.67
+Math,C201,U1323,dropped,Mid Carrier,Binge User,1,3.0,160.0,53.33
+Math,C219,U1319,completed,Professionals,Low Engagement,0,2.0,70.0,35.0
+Coding,C212,U1319,dropped,Professionals,Low Engagement,1,2.0,70.0,35.0
+Tech,C211,U1318,dropped,Professionals,Binge User,1,3.0,140.0,46.67
+Competitive,C205,U1318,dropped,Professionals,Binge User,1,3.0,140.0,46.67
+Coding,C202,U1317,dropped,Early Learners,Binge User,1,5.0,285.0,57.0
+Math,C201,U1317,dropped,Early Learners,Binge User,1,5.0,285.0,57.0
+Competitive,C204,U1315,dropped,Early Learners,Moderate Users,1,5.0,175.0,35.0
+Tech,C211,U1314,dropped,Mid Carrier,Binge User,1,4.0,270.0,67.5
+Math,C219,U1313,completed,Professionals,Consistent User,0,7.0,255.0,36.43
+Tech,C211,U1313,dropped,Professionals,Consistent User,1,7.0,255.0,36.43
+Tech,C215,U1312,dropped,Mid Carrier,Consistent User,1,6.0,240.0,40.0
+Competitive,C210,U1311,dropped,Mid Carrier,Low Engagement,1,2.0,35.0,17.5
+Competitive,C210,U1310,dropped,Professionals,Moderate Users,1,4.0,80.0,20.0
+Coding,C212,U1309,dropped,Early Learners,Consistent User,1,6.0,345.0,57.5
+Coding,C202,U1308,completed,Teen,Binge User,0,2.0,125.0,62.5
+Coding,C218,U1306,completed,Professionals,Low Engagement,0,1.0,5.0,5.0
+Competitive,C205,U1304,completed,Early Learners,Moderate Users,0,5.0,155.0,31.0
+Math,C216,U1303,dropped,Teen,Moderate Users,1,3.0,25.0,8.33
+Competitive,C205,U1302,dropped,Early Learners,Moderate Users,1,4.0,70.0,17.5
+Competitive,C200,U1302,completed,Early Learners,Moderate Users,0,4.0,70.0,17.5
+Competitive,C210,U1301,dropped,Mid Carrier,Moderate Users,1,4.0,115.0,28.75
+Competitive,C204,U1301,dropped,Mid Carrier,Moderate Users,1,4.0,115.0,28.75
+Tech,C215,U1300,dropped,Early Learners,Low Engagement,1,0.0,0.0,0.0
+Coding,C212,U1300,dropped,Early Learners,Low Engagement,1,0.0,0.0,0.0
+Competitive,C207,U1300,dropped,Early Learners,Low Engagement,1,0.0,0.0,0.0
+Competitive,C210,U1299,dropped,Mid Carrier,Low Engagement,1,2.0,70.0,35.0
+Competitive,C210,U1296,completed,Mid Carrier,Low Engagement,0,1.0,30.0,30.0
+Tech,C215,U1295,completed,Mid Carrier,Consistent User,0,6.0,290.0,48.33
+Math,C219,U1294,dropped,Teen,Moderate Users,1,4.0,120.0,30.0
+Coding,C202,U1292,completed,Professionals,Moderate Users,0,5.0,125.0,25.0
+Competitive,C200,U1292,dropped,Professionals,Moderate Users,1,5.0,125.0,25.0
+Coding,C218,U1290,completed,Teen,Binge User,0,4.0,260.0,65.0
+Coding,C218,U1288,dropped,Teen,Low Engagement,1,2.0,15.0,7.5
+Math,C216,U1288,dropped,Teen,Low Engagement,1,2.0,15.0,7.5
+Math,C201,U1288,completed,Teen,Low Engagement,0,2.0,15.0,7.5
+Math,C216,U1287,completed,Mid Carrier,Consistent User,0,8.0,250.0,31.25
+Tech,C211,U1287,completed,Mid Carrier,Consistent User,0,8.0,250.0,31.25
+Competitive,C204,U1286,completed,Professionals,Consistent User,0,6.0,225.0,37.5
+Math,C208,U1284,completed,Teen,Binge User,0,5.0,350.0,70.0
+Coding,C202,U1284,completed,Teen,Binge User,0,5.0,350.0,70.0
+Competitive,C204,U1283,completed,Professionals,Moderate Users,0,4.0,130.0,32.5
+Competitive,C205,U1279,completed,Teen,Binge User,0,2.0,150.0,75.0
+Coding,C212,U1277,dropped,Mid Carrier,Consistent User,1,6.0,300.0,50.0
+Competitive,C200,U1274,completed,Teen,Low Engagement,0,2.0,90.0,45.0
+Tech,C211,U1273,dropped,Professionals,Low Engagement,1,0.0,0.0,0.0
+Tech,C215,U1272,dropped,Mid Carrier,Consistent User,1,8.0,140.0,17.5
+Coding,C202,U1271,completed,Mid Carrier,Binge User,0,3.0,155.0,51.67
+Competitive,C207,U1269,completed,Mid Carrier,Low Engagement,0,2.0,55.0,27.5
+Competitive,C207,U1268,dropped,Teen,Consistent User,1,8.0,125.0,15.62
+Coding,C202,U1268,dropped,Teen,Consistent User,1,8.0,125.0,15.62
+Competitive,C210,U1267,completed,Mid Carrier,Moderate Users,0,4.0,60.0,15.0
+Math,C201,U1266,dropped,Teen,Binge User,1,3.0,175.0,58.33
+Tech,C215,U1265,dropped,Mid Carrier,Moderate Users,1,3.0,70.0,23.33
+Competitive,C200,U1265,dropped,Mid Carrier,Moderate Users,1,3.0,70.0,23.33
+Coding,C212,U1263,completed,Mid Carrier,Moderate Users,0,4.0,145.0,36.25
+Competitive,C200,U1263,completed,Mid Carrier,Moderate Users,0,4.0,145.0,36.25
+Coding,C212,U1262,completed,Teen,Low Engagement,0,1.0,30.0,30.0
+Coding,C218,U1261,completed,Mid Carrier,Low Engagement,0,2.0,70.0,35.0
+Math,C216,U1261,completed,Mid Carrier,Low Engagement,0,2.0,70.0,35.0
+Competitive,C207,U1260,completed,Teen,Low Engagement,0,2.0,30.0,15.0
+Competitive,C200,U1260,completed,Teen,Low Engagement,0,2.0,30.0,15.0
+Competitive,C210,U1259,dropped,Teen,Moderate Users,1,3.0,45.0,15.0
+Math,C216,U1258,completed,Teen,Low Engagement,0,1.0,45.0,45.0
+Coding,C202,U1256,dropped,Mid Carrier,Binge User,1,1.0,60.0,60.0
+Competitive,C200,U1255,completed,Professionals,Consistent User,0,8.0,350.0,43.75
+Math,C208,U1250,completed,Professionals,Moderate Users,0,5.0,110.0,22.0
+Competitive,C209,U1249,completed,Mid Carrier,Binge User,0,4.0,195.0,48.75
+Competitive,C204,U1249,completed,Mid Carrier,Binge User,0,4.0,195.0,48.75
+Math,C201,U1249,completed,Mid Carrier,Binge User,0,4.0,195.0,48.75
+Tech,C211,U1248,completed,Professionals,Binge User,0,3.0,195.0,65.0
+Competitive,C209,U1245,completed,Teen,Consistent User,0,9.0,345.0,38.33
+Competitive,C209,U1241,completed,Mid Carrier,Consistent User,0,6.0,155.0,25.83
+Competitive,C207,U1241,dropped,Mid Carrier,Consistent User,1,6.0,155.0,25.83
+Competitive,C207,U1240,dropped,Mid Carrier,Moderate Users,1,3.0,65.0,21.67
+Math,C219,U1237,completed,Mid Carrier,Moderate Users,0,3.0,70.0,23.33
+Math,C201,U1236,completed,Early Learners,Consistent User,0,9.0,465.0,51.67
+Math,C216,U1235,dropped,Mid Carrier,Binge User,1,1.0,120.0,120.0
+Competitive,C209,U1234,dropped,Mid Carrier,Moderate Users,1,4.0,105.0,26.25
+Tech,C215,U1227,dropped,Teen,Low Engagement,1,2.0,25.0,12.5
+Math,C219,U1226,completed,Teen,Binge User,0,4.0,195.0,48.75
+Math,C216,U1226,dropped,Teen,Binge User,1,4.0,195.0,48.75
+Coding,C202,U1226,completed,Teen,Binge User,0,4.0,195.0,48.75
+Math,C201,U1226,completed,Teen,Binge User,0,4.0,195.0,48.75
+Tech,C215,U1225,completed,Early Learners,Moderate Users,0,3.0,85.0,28.33
+Competitive,C209,U1225,completed,Early Learners,Moderate Users,0,3.0,85.0,28.33
+Competitive,C200,U1225,completed,Early Learners,Moderate Users,0,3.0,85.0,28.33
+Math,C216,U1224,dropped,Mid Carrier,Moderate Users,1,3.0,70.0,23.33
+Coding,C218,U1223,completed,Early Learners,Moderate Users,0,4.0,95.0,23.75
+Competitive,C210,U1223,completed,Early Learners,Moderate Users,0,4.0,95.0,23.75
+Competitive,C200,U1221,dropped,Early Learners,Moderate Users,1,5.0,220.0,44.0
+Competitive,C210,U1215,dropped,Mid Carrier,Binge User,1,2.0,165.0,82.5
+Competitive,C210,U1214,dropped,Mid Carrier,Moderate Users,1,3.0,35.0,11.67
+Math,C201,U1214,completed,Mid Carrier,Moderate Users,0,3.0,35.0,11.67
+Tech,C211,U1213,dropped,Teen,Consistent User,1,8.0,320.0,40.0
+Coding,C202,U1212,dropped,Teen,Moderate Users,1,3.0,135.0,45.0
+Tech,C211,U1209,dropped,Professionals,Binge User,1,3.0,170.0,56.67
+Coding,C202,U1207,completed,Mid Carrier,Consistent User,0,8.0,135.0,16.88
+Coding,C212,U1206,completed,Early Learners,Consistent User,0,8.0,330.0,41.25
+Math,C219,U1205,completed,Mid Carrier,Consistent User,0,8.0,335.0,41.88
+Tech,C215,U1204,dropped,Early Learners,Moderate Users,1,4.0,30.0,7.5
+Competitive,C207,U1203,dropped,Early Learners,Binge User,1,3.0,180.0,60.0
+Coding,C218,U1201,dropped,Professionals,Moderate Users,1,4.0,145.0,36.25
+Math,C208,U1200,dropped,Teen,Consistent User,1,7.0,310.0,44.29
+Coding,C218,U1198,completed,Mid Carrier,Moderate Users,0,3.0,135.0,45.0
+Competitive,C209,U1198,completed,Mid Carrier,Moderate Users,0,3.0,135.0,45.0
+Competitive,C205,U1194,dropped,Professionals,Consistent User,1,7.0,280.0,40.0
+Competitive,C205,U1193,dropped,Mid Carrier,Moderate Users,1,4.0,115.0,28.75
+Math,C201,U1193,dropped,Mid Carrier,Moderate Users,1,4.0,115.0,28.75
+Tech,C215,U1192,dropped,Mid Carrier,Binge User,1,4.0,255.0,63.75
+Competitive,C207,U1192,completed,Mid Carrier,Binge User,0,4.0,255.0,63.75
+Competitive,C207,U1191,completed,Mid Carrier,Consistent User,0,6.0,270.0,45.0
+Competitive,C209,U1188,completed,Teen,Binge User,0,2.0,135.0,67.5
+Tech,C211,U1187,completed,Early Learners,Moderate Users,0,4.0,120.0,30.0
+Competitive,C204,U1187,dropped,Early Learners,Moderate Users,1,4.0,120.0,30.0
+Math,C219,U1185,completed,Professionals,Moderate Users,0,3.0,75.0,25.0
+Coding,C212,U1184,dropped,Early Learners,Moderate Users,1,4.0,105.0,26.25
+Coding,C212,U1182,dropped,Teen,Binge User,1,3.0,190.0,63.33
+Math,C201,U1181,dropped,Teen,Consistent User,1,8.0,490.0,61.25
+Coding,C218,U1180,completed,Mid Carrier,Consistent User,0,6.0,405.0,67.5
+Math,C201,U1180,completed,Mid Carrier,Consistent User,0,6.0,405.0,67.5
+Tech,C215,U1178,dropped,Early Learners,Low Engagement,1,1.0,45.0,45.0
+Competitive,C205,U1177,dropped,Mid Carrier,Binge User,1,2.0,135.0,67.5
+Competitive,C200,U1177,completed,Mid Carrier,Binge User,0,2.0,135.0,67.5
+Math,C201,U1176,dropped,Professionals,Moderate Users,1,3.0,75.0,25.0
+Tech,C211,U1175,completed,Professionals,Moderate Users,0,5.0,160.0,32.0
+Coding,C202,U1175,completed,Professionals,Moderate Users,0,5.0,160.0,32.0
+Math,C201,U1174,dropped,Early Learners,Consistent User,1,6.0,155.0,25.83
+Competitive,C205,U1173,completed,Mid Carrier,Low Engagement,0,1.0,15.0,15.0
+Math,C201,U1173,dropped,Mid Carrier,Low Engagement,1,1.0,15.0,15.0
+Tech,C211,U1172,dropped,Professionals,Moderate Users,1,5.0,140.0,28.0
+Coding,C212,U1170,completed,Early Learners,Consistent User,0,7.0,235.0,33.57
+Math,C216,U1169,completed,Mid Carrier,Low Engagement,0,2.0,45.0,22.5
+Coding,C202,U1169,dropped,Mid Carrier,Low Engagement,1,2.0,45.0,22.5
+Competitive,C207,U1168,dropped,Early Learners,Low Engagement,1,1.0,30.0,30.0
+Competitive,C210,U1165,completed,Mid Carrier,Consistent User,0,8.0,390.0,48.75
+Competitive,C204,U1165,completed,Mid Carrier,Consistent User,0,8.0,390.0,48.75
+Competitive,C200,U1165,dropped,Mid Carrier,Consistent User,1,8.0,390.0,48.75
+Math,C201,U1164,completed,Teen,Moderate Users,0,4.0,125.0,31.25
+Tech,C215,U1163,completed,Teen,Binge User,0,5.0,240.0,48.0
+Coding,C212,U1163,completed,Teen,Binge User,0,5.0,240.0,48.0
+Math,C208,U1161,dropped,Professionals,Moderate Users,1,5.0,175.0,35.0
+Competitive,C205,U1160,dropped,Professionals,Low Engagement,1,1.0,10.0,10.0
+Coding,C212,U1159,completed,Teen,Moderate Users,0,3.0,50.0,16.67
+Competitive,C209,U1159,completed,Teen,Moderate Users,0,3.0,50.0,16.67
+Tech,C215,U1158,dropped,Teen,Moderate Users,1,4.0,145.0,36.25
+Competitive,C200,U1158,completed,Teen,Moderate Users,0,4.0,145.0,36.25
+Math,C208,U1157,completed,Teen,Low Engagement,0,1.0,10.0,10.0
+Tech,C211,U1154,completed,Mid Carrier,Moderate Users,0,3.0,120.0,40.0
+Competitive,C200,U1152,dropped,Early Learners,Binge User,1,3.0,150.0,50.0
+Tech,C211,U1151,dropped,Teen,Binge User,1,2.0,105.0,52.5
+Math,C208,U1148,dropped,Mid Carrier,Binge User,1,5.0,285.0,57.0
+Math,C219,U1147,completed,Mid Carrier,Moderate Users,0,5.0,85.0,17.0
+Math,C216,U1146,completed,Professionals,Moderate Users,0,4.0,85.0,21.25
+Competitive,C209,U1146,completed,Professionals,Moderate Users,0,4.0,85.0,21.25
+Coding,C202,U1145,dropped,Teen,Consistent User,1,7.0,220.0,31.43
+Competitive,C205,U1143,completed,Early Learners,Binge User,0,5.0,315.0,63.0
+Competitive,C209,U1142,completed,Early Learners,Binge User,0,5.0,245.0,49.0
+Math,C219,U1140,dropped,Early Learners,Consistent User,1,6.0,320.0,53.33
+Math,C201,U1139,completed,Professionals,Moderate Users,0,4.0,65.0,16.25
+Math,C219,U1136,dropped,Early Learners,Moderate Users,1,5.0,80.0,16.0
+Coding,C202,U1136,dropped,Early Learners,Moderate Users,1,5.0,80.0,16.0
+Tech,C211,U1131,completed,Teen,Moderate Users,0,3.0,40.0,13.33
+Competitive,C205,U1130,dropped,Teen,Low Engagement,1,2.0,55.0,27.5
+Coding,C202,U1130,completed,Teen,Low Engagement,0,2.0,55.0,27.5
+Coding,C218,U1129,completed,Early Learners,Moderate Users,0,3.0,105.0,35.0
+Competitive,C204,U1128,dropped,Professionals,Consistent User,1,7.0,220.0,31.43
+Tech,C211,U1127,dropped,Mid Carrier,Moderate Users,1,5.0,135.0,27.0
+Math,C208,U1127,dropped,Mid Carrier,Moderate Users,1,5.0,135.0,27.0
+Competitive,C207,U1122,completed,Teen,Low Engagement,0,1.0,10.0,10.0
+Tech,C215,U1121,completed,Mid Carrier,Binge User,0,4.0,260.0,65.0
+Competitive,C207,U1121,dropped,Mid Carrier,Binge User,1,4.0,260.0,65.0
+Coding,C218,U1119,dropped,Early Learners,Moderate Users,1,3.0,135.0,45.0
+Math,C201,U1119,dropped,Early Learners,Moderate Users,1,3.0,135.0,45.0
+Tech,C215,U1118,dropped,Mid Carrier,Low Engagement,1,2.0,70.0,35.0
+Competitive,C207,U1118,dropped,Mid Carrier,Low Engagement,1,2.0,70.0,35.0
+Competitive,C209,U1116,completed,Professionals,Low Engagement,0,1.0,30.0,30.0
+Competitive,C207,U1116,completed,Professionals,Low Engagement,0,1.0,30.0,30.0
+Coding,C202,U1116,dropped,Professionals,Low Engagement,1,1.0,30.0,30.0
+Competitive,C204,U1114,dropped,Early Learners,Low Engagement,1,2.0,55.0,27.5
+Competitive,C210,U1113,dropped,Professionals,Binge User,1,2.0,135.0,67.5
+Competitive,C209,U1112,completed,Professionals,Binge User,0,3.0,165.0,55.0
+Math,C208,U1112,dropped,Professionals,Binge User,1,3.0,165.0,55.0
+Math,C201,U1112,dropped,Professionals,Binge User,1,3.0,165.0,55.0
+Competitive,C207,U1111,dropped,Professionals,Consistent User,1,6.0,230.0,38.33
+Coding,C202,U1110,completed,Professionals,Binge User,0,3.0,240.0,80.0
+Tech,C215,U1107,completed,Mid Carrier,Binge User,0,4.0,300.0,75.0
+Tech,C215,U1106,dropped,Mid Carrier,Binge User,1,3.0,180.0,60.0
+Tech,C215,U1105,dropped,Professionals,Consistent User,1,7.0,280.0,40.0
+Math,C219,U1104,dropped,Professionals,Low Engagement,1,2.0,20.0,10.0
+Math,C216,U1100,dropped,Early Learners,Moderate Users,1,4.0,60.0,15.0
+Math,C219,U1098,completed,Professionals,Moderate Users,0,4.0,65.0,16.25
+Competitive,C207,U1098,completed,Professionals,Moderate Users,0,4.0,65.0,16.25
+Math,C219,U1097,dropped,Mid Carrier,Moderate Users,1,4.0,140.0,35.0
+Math,C208,U1096,completed,Professionals,Low Engagement,0,2.0,10.0,5.0
+Tech,C211,U1095,dropped,Early Learners,Consistent User,1,10.0,555.0,55.5
+Competitive,C204,U1095,completed,Early Learners,Consistent User,0,10.0,555.0,55.5
+Coding,C202,U1092,completed,Professionals,Moderate Users,0,5.0,160.0,32.0
+Coding,C218,U1091,completed,Teen,Low Engagement,0,2.0,75.0,37.5
+Competitive,C204,U1089,dropped,Teen,Moderate Users,1,4.0,95.0,23.75
+Math,C216,U1088,completed,Early Learners,Moderate Users,0,4.0,75.0,18.75
+Coding,C212,U1088,completed,Early Learners,Moderate Users,0,4.0,75.0,18.75
+Tech,C215,U1086,completed,Professionals,Moderate Users,0,4.0,105.0,26.25
+Competitive,C207,U1086,completed,Professionals,Moderate Users,0,4.0,105.0,26.25
+Coding,C218,U1085,completed,Mid Carrier,Moderate Users,0,3.0,30.0,10.0
+Math,C201,U1085,completed,Mid Carrier,Moderate Users,0,3.0,30.0,10.0
+Math,C219,U1083,completed,Early Learners,Binge User,0,4.0,190.0,47.5
+Tech,C215,U1083,completed,Early Learners,Binge User,0,4.0,190.0,47.5
+Coding,C212,U1083,completed,Early Learners,Binge User,0,4.0,190.0,47.5
+Competitive,C207,U1081,dropped,Teen,Low Engagement,1,2.0,25.0,12.5
+Math,C216,U1080,completed,Teen,Low Engagement,0,1.0,15.0,15.0
+Math,C208,U1080,completed,Teen,Low Engagement,0,1.0,15.0,15.0
+Competitive,C204,U1079,dropped,Teen,Low Engagement,1,0.0,0.0,0.0
+Competitive,C200,U1077,dropped,Professionals,Binge User,1,2.0,135.0,67.5
+Math,C219,U1076,dropped,Teen,Moderate Users,1,3.0,135.0,45.0
+Math,C216,U1076,dropped,Teen,Moderate Users,1,3.0,135.0,45.0
+Competitive,C207,U1075,completed,Professionals,Consistent User,0,8.0,335.0,41.88
+Math,C216,U1074,completed,Professionals,Moderate Users,0,4.0,50.0,12.5
+Tech,C215,U1071,completed,Early Learners,Consistent User,0,8.0,405.0,50.62
+Coding,C212,U1071,dropped,Early Learners,Consistent User,1,8.0,405.0,50.62
+Coding,C212,U1068,completed,Professionals,Low Engagement,0,2.0,20.0,10.0
+Competitive,C200,U1065,completed,Mid Carrier,Low Engagement,0,2.0,40.0,20.0
+Coding,C202,U1064,completed,Teen,Binge User,0,2.0,125.0,62.5
+Tech,C215,U1063,completed,Mid Carrier,Binge User,0,5.0,285.0,57.0
+Coding,C218,U1061,dropped,Early Learners,Moderate Users,1,5.0,215.0,43.0
+Competitive,C209,U1061,dropped,Early Learners,Moderate Users,1,5.0,215.0,43.0
+Competitive,C210,U1059,completed,Professionals,Moderate Users,0,5.0,180.0,36.0
+Competitive,C207,U1058,dropped,Professionals,Consistent User,1,7.0,260.0,37.14
+Competitive,C204,U1057,dropped,Professionals,Moderate Users,1,4.0,100.0,25.0
+Competitive,C209,U1056,completed,Mid Carrier,Low Engagement,0,2.0,40.0,20.0
+Competitive,C210,U1054,completed,Professionals,Moderate Users,0,3.0,70.0,23.33
+Competitive,C209,U1054,dropped,Professionals,Moderate Users,1,3.0,70.0,23.33
+Competitive,C207,U1054,completed,Professionals,Moderate Users,0,3.0,70.0,23.33
+Competitive,C205,U1053,dropped,Early Learners,Binge User,1,4.0,275.0,68.75
+Math,C201,U1051,dropped,Mid Carrier,Binge User,1,3.0,250.0,83.33
+Math,C201,U1050,completed,Early Learners,Binge User,0,1.0,60.0,60.0
+Competitive,C210,U1049,completed,Mid Carrier,Moderate Users,0,4.0,100.0,25.0
+Math,C201,U1044,dropped,Mid Carrier,Consistent User,1,6.0,140.0,23.33
+Competitive,C210,U1041,completed,Professionals,Low Engagement,0,2.0,70.0,35.0
+Math,C219,U1040,completed,Professionals,Binge User,0,1.0,120.0,120.0
+Competitive,C209,U1040,completed,Professionals,Binge User,0,1.0,120.0,120.0
+Competitive,C207,U1040,dropped,Professionals,Binge User,1,1.0,120.0,120.0
+Math,C219,U1039,dropped,Professionals,Binge User,1,5.0,300.0,60.0
+Coding,C218,U1039,dropped,Professionals,Binge User,1,5.0,300.0,60.0
+Competitive,C200,U1039,dropped,Professionals,Binge User,1,5.0,300.0,60.0
+Competitive,C205,U1038,dropped,Professionals,Moderate Users,1,4.0,150.0,37.5
+Competitive,C210,U1037,completed,Professionals,Moderate Users,0,5.0,150.0,30.0
+Coding,C218,U1036,dropped,Early Learners,Binge User,1,1.0,120.0,120.0
+Competitive,C204,U1036,completed,Early Learners,Binge User,0,1.0,120.0,120.0
+Coding,C202,U1036,completed,Early Learners,Binge User,0,1.0,120.0,120.0
+Competitive,C209,U1035,dropped,Mid Carrier,Moderate Users,1,3.0,135.0,45.0
+Tech,C211,U1034,completed,Mid Carrier,Low Engagement,0,1.0,30.0,30.0
+Math,C201,U1033,completed,Professionals,Low Engagement,0,1.0,10.0,10.0
+Math,C201,U1032,dropped,Mid Carrier,Low Engagement,1,0.0,0.0,0.0
+Competitive,C209,U1031,dropped,Early Learners,Binge User,1,3.0,175.0,58.33
+Coding,C212,U1030,dropped,Mid Carrier,Binge User,1,1.0,120.0,120.0
+Math,C219,U1028,dropped,Early Learners,Binge User,1,4.0,220.0,55.0
+Competitive,C209,U1028,dropped,Early Learners,Binge User,1,4.0,220.0,55.0
+Math,C201,U1026,dropped,Mid Carrier,Low Engagement,1,2.0,45.0,22.5
+Coding,C202,U1025,completed,Professionals,Low Engagement,0,2.0,15.0,7.5
+Competitive,C209,U1024,completed,Teen,Consistent User,0,6.0,175.0,29.17
+Math,C208,U1024,dropped,Teen,Consistent User,1,6.0,175.0,29.17
+Competitive,C204,U1023,dropped,Teen,Low Engagement,1,0.0,0.0,0.0
+Math,C201,U1023,dropped,Teen,Low Engagement,1,0.0,0.0,0.0
+Tech,C215,U1022,dropped,Early Learners,Low Engagement,1,1.0,30.0,30.0
+Coding,C202,U1021,completed,Mid Carrier,Consistent User,0,7.0,200.0,28.57
+Competitive,C205,U1019,completed,Mid Carrier,Moderate Users,0,4.0,100.0,25.0
+Coding,C202,U1019,dropped,Mid Carrier,Moderate Users,1,4.0,100.0,25.0
+Math,C208,U1018,dropped,Mid Carrier,Moderate Users,1,4.0,145.0,36.25
+Competitive,C209,U1016,dropped,Mid Carrier,Moderate Users,1,4.0,150.0,37.5
+Competitive,C200,U1016,dropped,Mid Carrier,Moderate Users,1,4.0,150.0,37.5
+Competitive,C205,U1015,completed,Early Learners,Moderate Users,0,3.0,85.0,28.33
+Competitive,C209,U1013,dropped,Mid Carrier,Binge User,1,2.0,180.0,90.0
+Competitive,C207,U1013,dropped,Mid Carrier,Binge User,1,2.0,180.0,90.0
+Coding,C218,U1011,dropped,Early Learners,Binge User,1,4.0,185.0,46.25
+Competitive,C205,U1011,dropped,Early Learners,Binge User,1,4.0,185.0,46.25
+Competitive,C204,U1011,completed,Early Learners,Binge User,0,4.0,185.0,46.25
+Math,C201,U1011,dropped,Early Learners,Binge User,1,4.0,185.0,46.25
+Coding,C218,U1010,completed,Early Learners,Moderate Users,0,4.0,95.0,23.75
+Competitive,C207,U1010,completed,Early Learners,Moderate Users,0,4.0,95.0,23.75
+Competitive,C205,U1008,completed,Mid Carrier,Low Engagement,0,1.0,5.0,5.0
+Competitive,C204,U1008,dropped,Mid Carrier,Low Engagement,1,1.0,5.0,5.0
+Competitive,C210,U1007,dropped,Mid Carrier,Binge User,1,4.0,200.0,50.0
+Math,C208,U1006,completed,Early Learners,Low Engagement,0,2.0,90.0,45.0
+Competitive,C205,U1006,completed,Early Learners,Low Engagement,0,2.0,90.0,45.0
+Competitive,C200,U1006,dropped,Early Learners,Low Engagement,1,2.0,90.0,45.0
+Math,C219,U1004,dropped,Early Learners,Moderate Users,1,5.0,70.0,14.0
+Competitive,C204,U1003,dropped,Early Learners,Low Engagement,1,2.0,75.0,37.5
+Coding,C202,U1002,completed,Professionals,Moderate Users,0,4.0,100.0,25.0
+Competitive,C200,U1002,dropped,Professionals,Moderate Users,1,4.0,100.0,25.0
+Competitive,C200,U1001,completed,Mid Carrier,Moderate Users,0,3.0,45.0,15.0
