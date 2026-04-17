@@ -32,7 +32,7 @@ This project analyzes user behavior in an EdTech platform by combining multiple 
 ---
 
 ## 📈 Dashboard
-![Dashboard](dashboard_overview.png)
+![Dashboard](Dashboard_Overview.png)
 
 ---
 
