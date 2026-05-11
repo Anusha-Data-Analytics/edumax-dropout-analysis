@@ -1,4 +1,4 @@
-# EduMax Dropout Analysis
+# EduMax – Churn & Behavioral Analytics
 
 ## 📌 Business Problem
 Understanding why users drop out of online courses and identifying behavioral patterns affecting retention and engagement.
