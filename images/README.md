@@ -1,1 +1,1 @@
-## Screenshots of Dashboard
+## Dashboard Images File
