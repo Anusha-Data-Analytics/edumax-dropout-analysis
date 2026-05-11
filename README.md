@@ -76,11 +76,14 @@ Download and open the dashboard in Power BI Desktop:
 ---
 
 ## 🚀 Business Impact
-This analysis helps:
-- identify retention gaps
-- optimize engagement strategies
-- improve course-level performance
-- support data-driven business decisions
+
+This project helps identify:
+- user retention gaps
+- engagement inefficiencies
+- high-risk churn behavior
+- course-level dropout patterns
+
+The insights can support retention strategy optimization and data-driven business decision-making in EdTech platforms.
 
 ---
 
