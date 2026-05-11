@@ -42,7 +42,7 @@ Analyze multi-source EdTech platform data to:
 
 ---
 
-##🔍 Key Business Insights
+## 🔍 Key Business Insights
 
 ✅ High engagement ≠ high retention
 Users with very high session duration (~65+ mins) showed significantly higher dropout rates.
@@ -68,7 +68,7 @@ Despite not having the highest dropout rate individually.
 ## 📊 Power BI Dashboards
 
 Download and open the dashboard in Power BI Desktop:
-[Download Dashboard](.dashboard/Edumax_Dashboard.pbix)
+[Download Dashboard](dashboard/Edumax_Dashboard.pbix)
 
 ---
 
