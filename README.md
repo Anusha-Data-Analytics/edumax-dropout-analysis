@@ -61,14 +61,14 @@ Despite not having the highest dropout rate individually.
 ---
 
 ## 📈 Dashboard
-![Overview Dashboard](dashboard_overview.png)
-![User Behaviour Analysis](user_behaviour_analysis.png)
+![Overview Dashboard](images/Dashboard_Overview.png)
+![User Behaviour Analysis](images/User_Behaviour_Analysis.png)
 
 ---
 ## 📊 Power BI Dashboards
 
 Download and open the dashboard in Power BI Desktop:
-[Download Dashboard](./Edumax_Dashboard.pbix)
+[Download Dashboard](.dashboard/Edumax_Dashboard.pbix)
 
 ---
 
