@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![SQL](https://img.shields.io/badge/SQL-Analytics-green)
 # EduMax – Churn & Behavioral Analytics
 
 ## 📌 Business Problem
