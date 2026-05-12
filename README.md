@@ -8,6 +8,12 @@ Understanding why users drop out of online courses and identifying behavioral pa
 
 ---
 
+## 📈 Dashboard
+![Overview Dashboard](images/Dashboard_Overview.png)
+![User Behaviour Analysis](images/User_Behaviour_Analysis.png)
+
+---
+
 ## 📊 Project Objective
 Analyze multi-source EdTech platform data to:
 
@@ -60,12 +66,6 @@ High-intensity irregular learners had higher churn than low-engagement users.
 
 ✅ Competitive courses contributed highest total dropouts
 Despite not having the highest dropout rate individually.
-
----
-
-## 📈 Dashboard
-![Overview Dashboard](images/Dashboard_Overview.png)
-![User Behaviour Analysis](images/User_Behaviour_Analysis.png)
 
 ---
 ## 📊 Power BI Dashboards
